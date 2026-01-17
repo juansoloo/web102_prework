@@ -22,8 +22,7 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented features:
 
-<img src="https://i.imgur.com/pKJd5DA.gif" title="Video Walkthrough" alt="Video Walkthrough" width="600"/>
-https://i.imgur.com/pKJd5DA.gif
+<img src="assets/Kapture 2026-01-16 at 19.55.20.gif" title="Video Walkthrough" alt="Video Walkthrough" width="600"/>
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with ...  
