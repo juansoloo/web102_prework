@@ -33,6 +33,8 @@ GIF created with ...
 
 Describe any challenges encountered while building the app.
 
+One challenge I ran into was getting the JavaScript filtering and DOM updates to work cleanly (switching between funded/unfunded/all) without duplicating code or accidentally showing the wrong games after clicking multiple buttons.
+
 ## License
 
     Copyright 2025 Juan Hurtado
